@@ -1,0 +1,8 @@
+Alura- Responsividade Mobile First
+
+Layouts Desktop: 1728px
+	Tablet: 1024px
+	Mobile: 428px
+
+MEDIA QUERIES: Site Responsivos
+__________________________________________________________________________________________________________________________
